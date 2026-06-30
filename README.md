@@ -4,6 +4,16 @@
 
 `Ollama is required.` This repository does not include model execution by itself. You need a local Ollama installation and at least one installed model before this tool can work.
 
+## Screenshots
+
+### Result Comparison
+
+![LLMCheckerNya result comparison](docs/images/llmcheckernya-result.png)
+
+### Input UI
+
+![LLMCheckerNya input UI](docs/images/llmcheckernya-input.png)
+
 ## 日本語
 
 ### 概要

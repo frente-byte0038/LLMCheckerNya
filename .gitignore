@@ -4,5 +4,6 @@ __pycache__/
 *.pyo
 *.log
 .venv/
+.venv-broken/
 .venv-py39-backup/
 .vscode/
